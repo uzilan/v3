@@ -21,7 +21,7 @@ As this is an advanced exercise, there are no enum-related things that we should
 
 The Concepts this exercise unlocks are:
 
-- `enums-advanced`: know how to define a "flags" enum; know how to add, remove or check for flags; know how to change the underlying type of an enum.
+- `enums-advanced`: know how to define a "flags" enum; know how to add, remove or check for flags; know how to change the underlying type of an enum; know how to do compound assignment.
 
 ## Prequisites
 
